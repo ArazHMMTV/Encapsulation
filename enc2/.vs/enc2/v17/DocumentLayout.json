@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4FAAEC-7AA2-4779-B2CE-FC1B14FD50D9}|enc2\\enc2.csproj|c:\\users\\administrator\\pictures\\screenshots\\taskenc\\enc2\\enc2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4FAAEC-7AA2-4779-B2CE-FC1B14FD50D9}|enc2\\enc2.csproj|solutionrelative:enc2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4FAAEC-7AA2-4779-B2CE-FC1B14FD50D9}|enc2\\enc2.csproj|c:\\users\\administrator\\pictures\\screenshots\\taskenc\\enc2\\enc2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4FAAEC-7AA2-4779-B2CE-FC1B14FD50D9}|enc2\\enc2.csproj|solutionrelative:enc2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4FAAEC-7AA2-4779-B2CE-FC1B14FD50D9}|enc2\\enc2.csproj|c:\\users\\administrator\\pictures\\screenshots\\taskenc\\enc2\\enc2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4FAAEC-7AA2-4779-B2CE-FC1B14FD50D9}|enc2\\enc2.csproj|solutionrelative:enc2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4FAAEC-7AA2-4779-B2CE-FC1B14FD50D9}|enc2\\enc2.csproj|c:\\users\\administrator\\pictures\\screenshots\\taskenc\\enc2\\enc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4FAAEC-7AA2-4779-B2CE-FC1B14FD50D9}|enc2\\enc2.csproj|solutionrelative:enc2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\enc2\\Library.cs",
+              "RelativeDocumentMoniker": "enc2\\Library.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\enc2\\Library.cs",
+              "RelativeToolTip": "enc2\\Library.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:41:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\enc2\\Book.cs",
+              "RelativeDocumentMoniker": "enc2\\Book.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\enc2\\Book.cs",
+              "RelativeToolTip": "enc2\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:40:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\enc2\\Product.cs",
+              "RelativeDocumentMoniker": "enc2\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\enc2\\Product.cs",
+              "RelativeToolTip": "enc2\\Product.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:39:58.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\enc2\\Program.cs",
+              "RelativeDocumentMoniker": "enc2\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Pictures\\Screenshots\\taskenc\\enc2\\enc2\\Program.cs",
+              "RelativeToolTip": "enc2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:39:29.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
